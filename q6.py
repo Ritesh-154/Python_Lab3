@@ -56,6 +56,8 @@ def merge_sort(arr):
             j += 1
             k += 1
     return arr
+
+
 arr = [64, 34, 25, 12, 22, 11, 90]
 print("Enter 1 for bubble sort")
 print("Enter 2 for selection sort")
